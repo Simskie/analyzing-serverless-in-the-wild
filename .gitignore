@@ -1,0 +1,6 @@
+__pycache__
+azurefunctions-dataset2019
+.DS_Store
+plots
+/simulation_results
+/chunk_invocation_data
